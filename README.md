@@ -4,6 +4,6 @@
 1. Python 3
 2. Sympy library
 
+All of the solutions are in their respective folders.
 
-## All of the solutions are in their respective folders.
-## The init file is for a live python session
+The init file is for a live python session
